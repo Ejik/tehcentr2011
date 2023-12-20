@@ -1,0 +1,34 @@
+baseURL = 'https://tehcentr2011.ru'
+languageCode = 'ru'
+DefaultContentLanguage = "ru"
+
+[params]
+displayMode = "white"
+author = "ООО Пневматические системы"
+profilePicture = "serg.jpg"
+doNotLoadAnimations = false
+customCss = ["css/style.css"]
+title = "Жуков С. В."
+description = "Генеральный директор ООО Пневматические системы"
+showlogo = false
+hidesidebar = false
+contactFormAction = "https://formspree.io/f/xdoqnzyw"
+contactFormReCaptcha = "your-site-key-here"
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/lxndrblz/anatole/"
+
+[[socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:tehcentr@mail.ru"

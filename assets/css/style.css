@@ -1,0 +1,41 @@
+  
+
+body{
+    /*background: url(/images/fon.jpg) no-repeat fixed center center;
+    background-size: cover;
+    */
+}
+
+.logo {
+    background-image: url(/images/logo222.png);
+    height: 130px;
+}
+
+.sidebar__introduction-profileimage {
+    width: 150px !important;
+    height: 150px !important;
+}
+
+.logosidebar, .logocontent { 
+    padding: 10px; 
+    font-weight: bold;
+}
+
+.logolayout {
+    /*margin: 15px 0; /* Отступы сверху и снизу */ 
+    overflow: hidden; /* Отменяем действие float */
+    /*min-width: 800px; /* Минимальная ширина */
+    /*max-width: 1200px; /* Максимальная ширина */
+   }
+
+.logosidebar { /* Навигация по сайту */
+    width: auto; /* Ширина меню */
+    float: left; /* Состыковка с другим слоем по горизонтали */
+    text-align: center;
+   }
+  
+.logocontent { /* Основное содержание страницы */
+    margin-left: auto; 
+    text-align: right;
+    
+}

@@ -1,0 +1,35 @@
+  [[main]]
+  name = "Главная"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Новости"
+  weight = 200
+  identifier = "news"
+  url = "/news/"
+
+  [[main]]
+  name = "Сервис"
+  weight = 300
+  identifier = "service"
+  url = "/service/"
+
+  [[main]]
+  name = "Наши разработки"
+  weight = 400
+  identifier = "ourdev"
+  url = "/ourdev/"
+
+  [[main]]
+  name = "Оплата и доставка"
+  weight = 500
+  identifier = "payment"
+  url = "/payment/"
+
+  [[main]]
+  name = "Контакты"
+  weight = 600
+  identifier = "contact"
+  url = "/contact/"  

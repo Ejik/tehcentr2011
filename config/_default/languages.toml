@@ -1,0 +1,12 @@
+[ru]
+title = "Пневматические системы"
+weight = 1
+LanguageName = "RU"
+contentDir = "content/russian"
+
+[en]
+title = "Pneumosys"
+weight = 2
+LanguageName = "EN"
+contentDir = "content/english"
+
